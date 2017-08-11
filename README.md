@@ -7,6 +7,8 @@ Prerequisites:
  * LaTeX, and LaTeX packages: graphicx, noweb, mflogo, amsmath, textcomp
  * F# compiler
 
+Precompiled binaries are available in sz80em.tar.gz.
+
 -----
 ## Images
 
