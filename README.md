@@ -11,6 +11,8 @@ Precompiled binaries are available in [sz80em.tar.gz](https://github.com/rvprg/s
 
 The [PDF](https://github.com/rvprg/sz80em/blob/master/sz80em.pdf) file of the book is available [here](https://github.com/rvprg/sz80em/blob/master/sz80em.pdf).
 
+The emulator expects ROM file named 48k.rom in current directory. A different file path can be specified as the first argument to the program.
+
 ## Table Of Contents
 * 1.  About ZX Spectrum
 * 2.  Program layout
